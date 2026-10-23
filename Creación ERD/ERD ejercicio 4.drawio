@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Pàgina-1" id="OqfT07_o4hIKMEUCRuLp">
-    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="xD3SM_D6VMc8i8TXRifq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="MODELO AVIÓN" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="xD3SM_D6VMc8i8TXRifq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ESCALA" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="680" as="geometry" />
         </mxCell>
         <mxCell id="xD3SM_D6VMc8i8TXRifq-7" edge="1" parent="1" source="xD3SM_D6VMc8i8TXRifq-4" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="xD3SM_D6VMc8i8TXRifq-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -43,26 +40,11 @@
             <mxPoint x="217" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xD3SM_D6VMc8i8TXRifq-11" edge="1" parent="1" source="xD3SM_D6VMc8i8TXRifq-15" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="xD3SM_D6VMc8i8TXRifq-5" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="579.5" y="500" as="sourcePoint" />
-            <mxPoint x="579.5" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xD3SM_D6VMc8i8TXRifq-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="despega y aterriza" vertex="1">
           <mxGeometry height="50" width="140" x="320" y="155" as="geometry" />
         </mxCell>
         <mxCell id="xD3SM_D6VMc8i8TXRifq-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="es" vertex="1">
           <mxGeometry height="50" width="90" x="355" y="450" as="geometry" />
-        </mxCell>
-        <mxCell id="xD3SM_D6VMc8i8TXRifq-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="xD3SM_D6VMc8i8TXRifq-15" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="579.5" y="500" as="sourcePoint" />
-            <mxPoint x="580" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xD3SM_D6VMc8i8TXRifq-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="tiene" vertex="1">
-          <mxGeometry height="50" width="90" x="535" y="565" as="geometry" />
         </mxCell>
         <mxCell id="xD3SM_D6VMc8i8TXRifq-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="tiene" vertex="1">
           <mxGeometry height="50" width="90" x="535" y="290" as="geometry" />
@@ -70,8 +52,8 @@
         <mxCell id="xD3SM_D6VMc8i8TXRifq-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="permite" vertex="1">
           <mxGeometry height="50" width="90" x="170" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="xD3SM_D6VMc8i8TXRifq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;id programa&lt;/b&gt;&lt;div&gt;línea aérea&amp;nbsp;&lt;/div&gt;&lt;div&gt;día semana con vuelo&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="660" y="150" as="geometry" />
+        <mxCell id="xD3SM_D6VMc8i8TXRifq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;id programa&lt;/b&gt;&lt;div&gt;línea aérea&amp;nbsp;&lt;/div&gt;&lt;div&gt;día semana con vuelo&lt;/div&gt;&lt;div&gt;origen&amp;nbsp;&lt;/div&gt;&lt;div&gt;destino&lt;/div&gt;&lt;div&gt;escalas&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="140" x="660" y="130" as="geometry" />
         </mxCell>
         <mxCell id="xD3SM_D6VMc8i8TXRifq-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;id aeropuerto&lt;/b&gt;&lt;div&gt;nombre&amp;nbsp;&lt;/div&gt;&lt;div&gt;ciudad&amp;nbsp;&lt;/div&gt;&lt;div&gt;país&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="90" x="250" y="210" as="geometry" />
@@ -79,11 +61,8 @@
         <mxCell id="xD3SM_D6VMc8i8TXRifq-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;id modelo&lt;/b&gt;&lt;div style=&quot;&quot;&gt;modelo&lt;/div&gt;&lt;div style=&quot;&quot;&gt;número plaza&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="180" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="xD3SM_D6VMc8i8TXRifq-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;número vuelo&lt;/b&gt;&lt;div&gt;fecha&amp;nbsp;&lt;/div&gt;&lt;div&gt;plazas vacías&lt;/div&gt;" vertex="1">
+        <mxCell id="xD3SM_D6VMc8i8TXRifq-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;número vuelo&lt;/b&gt;&lt;div&gt;fecha&amp;nbsp;&lt;/div&gt;&lt;div&gt;plazas vacías&lt;/div&gt;&lt;div&gt;despegue&amp;nbsp;&lt;/div&gt;&lt;div&gt;aterrizaje&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="90" x="650" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="xD3SM_D6VMc8i8TXRifq-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;id escala&lt;/b&gt;&lt;div&gt;número escalas&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="650" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
