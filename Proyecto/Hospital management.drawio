@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Pàgina-1" id="194JtrES89YO1delqgge">
-    <mxGraphModel dx="1172" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,10 +211,10 @@
         <mxCell id="iZ48egH-jDEtmcu0l6SS-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(0, N)" vertex="1">
           <mxGeometry height="30" width="60" x="200" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="iZ48egH-jDEtmcu0l6SS-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1, 1)" vertex="1">
+        <mxCell id="iZ48egH-jDEtmcu0l6SS-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1, N)" vertex="1">
           <mxGeometry height="30" width="60" x="195" y="628" as="geometry" />
         </mxCell>
-        <mxCell id="iZ48egH-jDEtmcu0l6SS-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="&lt;b&gt;(1, N)&lt;/b&gt;" vertex="1">
+        <mxCell id="iZ48egH-jDEtmcu0l6SS-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="&lt;b&gt;(N, N)&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="690" as="geometry" />
         </mxCell>
         <mxCell id="iZ48egH-jDEtmcu0l6SS-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1, N)" vertex="1">
